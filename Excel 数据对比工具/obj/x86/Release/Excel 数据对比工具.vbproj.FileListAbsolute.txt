@@ -1,0 +1,21 @@
+C:\Users\Polyhedron Riddle\Documents\Visual Studio 2010\Projects\Excel 数据对比工具\Excel 数据对比工具\bin\Release\Excel 数据对比工具.exe.config
+C:\Users\Polyhedron Riddle\Documents\Visual Studio 2010\Projects\Excel 数据对比工具\Excel 数据对比工具\obj\x86\Release\Excel 数据对比工具.vbproj.ResolveComReference.cache
+C:\Users\Polyhedron Riddle\Documents\Visual Studio 2010\Projects\Excel 数据对比工具\Excel 数据对比工具\obj\x86\Release\Excel 数据对比工具.exe
+C:\Users\Polyhedron Riddle\Documents\Visual Studio 2010\Projects\Excel 数据对比工具\Excel 数据对比工具\obj\x86\Release\Excel 数据对比工具.xml
+C:\Users\Polyhedron Riddle\Documents\Visual Studio 2010\Projects\Excel 数据对比工具\Excel 数据对比工具\obj\x86\Release\Excel 数据对比工具.pdb
+C:\Users\Polyhedron Riddle\Documents\Visual Studio 2010\Projects\Excel 数据对比工具\Excel 数据对比工具\bin\Release\Excel 数据对比工具.exe
+C:\Users\Polyhedron Riddle\Documents\Visual Studio 2010\Projects\Excel 数据对比工具\Excel 数据对比工具\bin\Release\Excel 数据对比工具.pdb
+C:\Users\Polyhedron Riddle\Documents\Visual Studio 2010\Projects\Excel 数据对比工具\Excel 数据对比工具\bin\Release\Excel 数据对比工具.xml
+C:\Users\Polyhedron Riddle\Documents\Visual Studio 2010\Projects\Excel 数据对比工具\Excel 数据对比工具\obj\x86\Release\ExcelCompare.Main.resources
+C:\Users\Polyhedron Riddle\Documents\Visual Studio 2010\Projects\Excel 数据对比工具\Excel 数据对比工具\obj\x86\Release\ExcelCompare.Resources.resources
+C:\Users\Polyhedron Riddle\Documents\Visual Studio 2010\Projects\Excel 数据对比工具\Excel 数据对比工具\obj\x86\Release\Excel 数据对比工具.vbproj.GenerateResource.Cache
+G:\Excel 数据对比工具\Excel 数据对比工具\bin\Release\Excel 数据对比工具.exe.config
+G:\Excel 数据对比工具\Excel 数据对比工具\obj\x86\Release\Excel 数据对比工具.vbproj.ResolveComReference.cache
+G:\Excel 数据对比工具\Excel 数据对比工具\obj\x86\Release\Excel 数据对比工具.exe
+G:\Excel 数据对比工具\Excel 数据对比工具\obj\x86\Release\Excel 数据对比工具.xml
+G:\Excel 数据对比工具\Excel 数据对比工具\obj\x86\Release\Excel 数据对比工具.pdb
+D:\程序\程序开发\Excel 数据对比工具\Excel 数据对比工具\bin\Release\Excel 数据对比工具.exe.config
+D:\程序\程序开发\Excel 数据对比工具\Excel 数据对比工具\obj\x86\Release\Excel 数据对比工具.vbproj.ResolveComReference.cache
+D:\程序\程序开发\Excel 数据对比工具\Excel 数据对比工具\obj\x86\Release\Excel 数据对比工具.exe
+D:\程序\程序开发\Excel 数据对比工具\Excel 数据对比工具\obj\x86\Release\Excel 数据对比工具.xml
+D:\程序\程序开发\Excel 数据对比工具\Excel 数据对比工具\obj\x86\Release\Excel 数据对比工具.pdb

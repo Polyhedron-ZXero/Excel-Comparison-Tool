@@ -1,0 +1,11 @@
+C:\Users\Polyhedron Riddle\documents\visual studio 2010\Projects\ExcelCompare\ExcelCompare\obj\x86\Release\ExcelCompare.vbproj.ResolveComReference.cache
+C:\Users\Polyhedron Riddle\documents\visual studio 2010\Projects\ExcelCompare\ExcelCompare\obj\x86\Release\ExcelCompare.Main.resources
+C:\Users\Polyhedron Riddle\documents\visual studio 2010\Projects\ExcelCompare\ExcelCompare\obj\x86\Release\ExcelCompare.Resources.resources
+C:\Users\Polyhedron Riddle\documents\visual studio 2010\Projects\ExcelCompare\ExcelCompare\obj\x86\Release\ExcelCompare.vbproj.GenerateResource.Cache
+C:\Users\Polyhedron Riddle\documents\visual studio 2010\Projects\ExcelCompare\ExcelCompare\bin\Release\Excel 数据对比工具.exe.config
+C:\Users\Polyhedron Riddle\documents\visual studio 2010\Projects\ExcelCompare\ExcelCompare\bin\Release\Excel 数据对比工具.exe
+C:\Users\Polyhedron Riddle\documents\visual studio 2010\Projects\ExcelCompare\ExcelCompare\bin\Release\Excel 数据对比工具.pdb
+C:\Users\Polyhedron Riddle\documents\visual studio 2010\Projects\ExcelCompare\ExcelCompare\bin\Release\Excel 数据对比工具.xml
+C:\Users\Polyhedron Riddle\documents\visual studio 2010\Projects\ExcelCompare\ExcelCompare\obj\x86\Release\Excel 数据对比工具.exe
+C:\Users\Polyhedron Riddle\documents\visual studio 2010\Projects\ExcelCompare\ExcelCompare\obj\x86\Release\Excel 数据对比工具.xml
+C:\Users\Polyhedron Riddle\documents\visual studio 2010\Projects\ExcelCompare\ExcelCompare\obj\x86\Release\Excel 数据对比工具.pdb
